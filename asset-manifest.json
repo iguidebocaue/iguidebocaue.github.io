@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b95cf702.css",
+    "main.js": "/static/js/main.83ae93cb.js",
+    "static/media/bocaue.png": "/static/media/bocaue.aa15c615ae997cf68844.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/FloodArea.png": "/static/media/FloodArea.6a0b76b7dcf9207d95db.png",
+    "static/media/i-guide.png": "/static/media/i-guide.85206a75e3c91fab424f.png",
+    "static/media/Playlist-Script.otf": "/static/media/Playlist-Script.a392da1f43187e2c4d22.otf",
+    "static/media/LEMONMILK-Bold.otf": "/static/media/LEMONMILK-Bold.ac2b6389ba01ca1f431e.otf",
+    "static/media/LEMONMILK-Regular.otf": "/static/media/LEMONMILK-Regular.55fc24317b9c2b507dd8.otf",
+    "index.html": "/index.html",
+    "main.b95cf702.css.map": "/static/css/main.b95cf702.css.map",
+    "main.83ae93cb.js.map": "/static/js/main.83ae93cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b95cf702.css",
+    "static/js/main.83ae93cb.js"
+  ]
+}
